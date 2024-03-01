@@ -179,3 +179,7 @@ public ResponseEntity<String> postuser(@RequestBody User user) {
   return new ResponseEntity<String>("post user details are: " + user, HttpStatus.ACCEPTED);
 }
 ```
+**Client Hierarchy**<br>
+![Client Image](Image/hierarchy.png) <br>
+**Service Hierarchy Table**<br>
+![Service Image](Image/server.png) <br>
