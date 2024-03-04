@@ -24,4 +24,4 @@ to make it available for other micro services or client apps.
     -  **Load Balancer Client :** eg: Feign Client,  LoaaBalancer
     -  **Integrations :** Mail, Caching, Batch Processing
     -  **Api Gateway :** Common entry and exit point , to use all the multiple microservices<br>
-[Reference Note](https://github.com/Narendra-cyb/SpringBootMicroServices/upload/main/Image)
+[Reference Note](https://github.com/Narendra-cyb/SpringBootMicroServices/tree/main/Image)
